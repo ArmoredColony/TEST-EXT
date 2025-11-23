@@ -7,7 +7,7 @@
       "id": "TEST_EXT",
       "name": "TEST-EXT",
       "tagline": "Barebones test extension showing version in UI",
-      "version": "0.0.1",
+      "version": "0.2.5",
       "type": "add-on",
       "maintainer": "Your Name <you@example.com>",
       "license": [
@@ -16,7 +16,7 @@
       "blender_version_min": "4.2.0",
       "archive_url": "./TEST-EXT.zip",
       "archive_size": 1231,
-      "archive_hash": "sha256:250397fc68dcdbc3894c9e9d5b38a9af1d3b147740ce6c788209a0861938181d"
+      "archive_hash": "sha256:16e37bcd3d4736c7ea7d577cfe84f81e30356aa83586f649de81eadd6b8bd36b"
     }
   ]
 }
